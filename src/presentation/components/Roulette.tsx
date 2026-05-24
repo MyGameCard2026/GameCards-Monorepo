@@ -9,10 +9,11 @@ interface RouletteProps {
   resultColor?: string;
 }
 
-const Roulette: React.FC<RouletteProps> = ({ isRolling, resultIcon, resultColor }) => {
+const Roulette: React.FC<RouletteProps> = ({ isRolling, resultIcon, resultColor, onRoll }) => {
   return (
     <div 
-      className={`relative w-24 h-24 rounded-full flex items-center justify-center shadow-lg transition-all duration-700 ease-in-out border-4 ${isRolling ? 'animate-spin border-white' : 'border-transparent'}`}
+      onClick={() => { if (!isRolling) onRoll(); }}
+      className={`relative w-24 h-24 rounded-full flex items-center justify-center shadow-lg transition-all duration-700 ease-in-out border-4 cursor-pointer hover:scale-105 ${isRolling ? 'animate-spin border-white' : 'border-transparent'}`}
       style={{
         backgroundColor: isRolling ? '#555' : (resultColor || '#333'),
         transform: isRolling ? 'rotate(1080deg) scale(1.1)' : 'rotate(0deg) scale(1)'

@@ -63,7 +63,7 @@ export default function JuegoPage() {
   }, [questionsQueue, currentQuestion, pickNextQuestion]);
 
   const handleRoll = () => {
-    if (isRolling || !isReady) return;
+    if (isRolling) return;
     
     if (questionsQueue.length === 0) {
         alert("¡Felicidades! Han completado todas las cartas de estos mazos.");

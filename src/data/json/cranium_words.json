@@ -3,327 +3,374 @@
     "id": "lex_ciro_1",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, analicen los datos históricos del artículo y respondan: ¿En qué año exacto regresaron los judíos exiliados a la tierra de sus antepasados, cumpliendo con total precisión la profecía de los 70 años de yermos desolados?\n\nA) En el año 539 antes de nuestra era.\nB) En el año 537 antes de nuestra era.\nC) En el año 600 antes de nuestra era.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, analicen los datos históricos del artículo y respondan: ¿En qué año exacto regresaron los judíos exiliados a la tierra de sus antepasados, cumpliendo con total precisión la profecía de los 70 años de yermos desolados?\n\nA) En el año 539 antes de nuestra era.\nB) En el año 537 antes de nuestra era.\nC) En el año 600 antes de nuestra era.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_ciro_2",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, recuerden las espectaculares predicciones del profeta Isaías. ¿Con cuántos años de antelación aproximada se escribieron sus detalladas profecías sobre la caída de Babilonia?\n\nA) Unos 150 años antes del ataque.\nB) Unos 70 años antes del exilio.\nC) Unos 200 años de antelación.\n\nRespuesta: C",
-    "deckId": "words"
+    "consigna": "Para ganar, recuerden las espectaculares predicciones del profeta Isaías. ¿Con cuántos años de antelación aproximada se escribieron sus detalladas profecías sobre la caída de Babilonia?\n\nA) Unos 150 años antes del ataque.\nB) Unos 70 años antes del exilio.\nC) Unos 200 años de antelación.",
+    "deckId": "words",
+    "respuesta": "C"
   },
   {
     "id": "lex_ciro_3",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en gritar la respuesta correcta se lleva la tarjeta. Según los historiadores griegos Heródoto y Jenofonte, ¿qué factor crucial facilitó que los soldados de Ciro cruzaran a pie el Éufrates y entraran sin resistencia a Babilonia?\n\nA) Las murallas de la ciudad se derrumbaron debido a un terremoto sorpresa.\nB) Los babilonios estaban de fiesta y dejaron las puertas de la ciudad abiertas.\nC) El rey Belsasar huyó de la ciudad antes de que el ejército persa llegara.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en gritar la respuesta correcta se lleva la tarjeta. Según los historiadores griegos Heródoto y Jenofonte, ¿qué factor crucial facilitó que los soldados de Ciro cruzaran a pie el Éufrates y entraran sin resistencia a Babilonia?\n\nA) Las murallas de la ciudad se derrumbaron debido a un terremoto sorpresa.\nB) Los babilonios estaban de fiesta y dejaron las puertas de la ciudad abiertas.\nC) El rey Belsasar huyó de la ciudad antes de que el ejército persa llegara.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_ciro_4",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, pónganse de acuerdo y respondan: ¿Cuánto tiempo ANTES del nacimiento de Ciro el Grande se profetizó en las Escrituras su nombre específico y el rol que tendría en la liberación de los judíos?\n\nA) Unos 150 años antes de que naciera.\nB) Justo 70 años antes de que naciera.\nC) Unos 200 años antes de que naciera.\n\nRespuesta: A",
-    "deckId": "words"
+    "consigna": "Para ganar, pónganse de acuerdo y respondan: ¿Cuánto tiempo ANTES del nacimiento de Ciro el Grande se profetizó en las Escrituras su nombre específico y el rol que tendría en la liberación de los judíos?\n\nA) Unos 150 años antes de que naciera.\nB) Justo 70 años antes de que naciera.\nC) Unos 200 años antes de que naciera.",
+    "deckId": "words",
+    "respuesta": "A"
   },
   {
     "id": "lex_ciro_5",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, demuestren su conocimiento en arqueología bíblica: ¿Cuál es la longitud exacta del famoso 'Cilindro de Ciro', el trascendental documento de arcilla que conmemora la conquista de Babilonia?\n\nA) 9 centímetros (23 pulgadas).\nB) 23 centímetros (9 pulgadas).\nC) 50 centímetros (19.5 pulgadas).\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, demuestren su conocimiento en arqueología bíblica: ¿Cuál es la longitud exacta del famoso 'Cilindro de Ciro', el trascendental documento de arcilla que conmemora la conquista de Babilonia?\n\nA) 9 centímetros (23 pulgadas).\nB) 23 centímetros (9 pulgadas).\nC) 50 centímetros (19.5 pulgadas).",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_ciro_6",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, recuerden la famosa sección 'Datos Generales': Si quisieran contemplar hoy en día la tumba real de Ciro el Grande, ¿en qué ruinas arqueológicas y país actual tendrían que buscarla?\n\nA) En Pasargada, ubicado en el actual Irán.\nB) En Persépolis, ubicado en el actual Irak.\nC) En Babilonia, ubicado en la actual Siria.\n\nRespuesta: A",
-    "deckId": "words"
+    "consigna": "Para ganar, recuerden la famosa sección 'Datos Generales': Si quisieran contemplar hoy en día la tumba real de Ciro el Grande, ¿en qué ruinas arqueológicas y país actual tendrían que buscarla?\n\nA) En Pasargada, ubicado en el actual Irán.\nB) En Persépolis, ubicado en el actual Irak.\nC) En Babilonia, ubicado en la actual Siria.",
+    "deckId": "words",
+    "respuesta": "A"
   },
   {
     "id": "lex_ciro_7",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "¡TODOS JUEGAN!\nSean veloces. Durante el escalofriante episodio de 'La escritura en la pared', ¿cuál fue el significado exacto que el profeta Daniel le descifró al rey Belsasar respecto a la palabra TEQUEL?\n\nA) Que su reino había sido entregado a los medos y los persas.\nB) Que los días de su reinado habían llegado a su fin.\nC) Que él había sido pesado en la balanza y no había dado la talla.\n\nRespuesta: C",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nSean veloces. Durante el escalofriante episodio de 'La escritura en la pared', ¿cuál fue el significado exacto que el profeta Daniel le descifró al rey Belsasar respecto a la palabra TEQUEL?\n\nA) Que su reino había sido entregado a los medos y los persas.\nB) Que los días de su reinado habían llegado a su fin.\nC) Que él había sido pesado en la balanza y no había dado la talla.",
+    "deckId": "words",
+    "respuesta": "C"
   },
   {
     "id": "lex_ciro_8",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, recuerden las advertencias proféticas: ¿Qué profeta de las Escrituras predijo con exactitud que los valientes soldados babilonios perderían el valor y 'no opondrían resistencia' ante el ataque de Media y Persia?\n\nA) Isaías y Jeremías.\nB) Daniel y Esdras.\nC) Isaías y Ezequiel.\n\nRespuesta: A",
-    "deckId": "words"
+    "consigna": "Para ganar, recuerden las advertencias proféticas: ¿Qué profeta de las Escrituras predijo con exactitud que los valientes soldados babilonios perderían el valor y 'no opondrían resistencia' ante el ataque de Media y Persia?\n\nA) Isaías y Jeremías.\nB) Daniel y Esdras.\nC) Isaías y Ezequiel.",
+    "deckId": "words",
+    "respuesta": "A"
   },
   {
     "id": "lex_matrimonio_1",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, analicen las hermosas palabras de Proverbios 18:22 y respondan: ¿A qué equivale exactamente en el lenguaje bíblico el maravilloso logro de 'encontrar una buena esposa'?\n\nA) Encontrar un refugio seguro ante las dificultades de la vida.\nB) Encontrar un tesoro y obtener la aprobación de Jehová.\nC) Encontrar un complemento perfecto que nunca comete errores.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, analicen las hermosas palabras de Proverbios 18:22 y respondan: ¿A qué equivale exactamente en el lenguaje bíblico el maravilloso logro de 'encontrar una buena esposa'?\n\nA) Encontrar un refugio seguro ante las dificultades de la vida.\nB) Encontrar un tesoro y obtener la aprobación de Jehová.\nC) Encontrar un complemento perfecto que nunca comete errores.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_2",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, recuerden la contundente advertencia de Malaquías 2:15 sobre 'no traicionar a la esposa de su juventud'. ¿Cuál es el significado profundo que Dios le da a este mandato?\n\nA) Que la fidelidad y el respeto mutuo deben mantenerse intactos, incluso si llevan muchos años casados.\nB) Que solo los matrimonios jóvenes tienen la obligación de ser leales.\nC) Que el esposo debe tomar todas las decisiones económicas del hogar para proteger a su esposa.\n\nRespuesta: A",
-    "deckId": "words"
+    "consigna": "Para ganar, recuerden la contundente advertencia de Malaquías 2:15 sobre 'no traicionar a la esposa de su juventud'. ¿Cuál es el significado profundo que Dios le da a este mandato?\n\nA) Que la fidelidad y el respeto mutuo deben mantenerse intactos, incluso si llevan muchos años casados.\nB) Que solo los matrimonios jóvenes tienen la obligación de ser leales.\nC) Que el esposo debe tomar todas las decisiones económicas del hogar para proteger a su esposa.",
+    "deckId": "words",
+    "respuesta": "A"
   },
   {
     "id": "lex_matrimonio_3",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en responder correctamente se lleva la tarjeta. Al analizar las palabras de Jesús en Marcos 10:9 ('Lo que Dios ha unido, que no lo separe ningún hombre'), ¿cuál ha sido SIEMPRE el deseo fundamental de Jehová respecto al matrimonio?\n\nA) Que sea una institución opcional para quienes deseen servirle de tiempo completo.\nB) Que sea una unión permanente que ningún ser humano tiene el derecho de romper.\nC) Que sea un contrato social renovable cada cierto número de años.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en responder correctamente se lleva la tarjeta. Al analizar las palabras de Jesús en Marcos 10:9 ('Lo que Dios ha unido, que no lo separe ningún hombre'), ¿cuál ha sido SIEMPRE el deseo fundamental de Jehová respecto al matrimonio?\n\nA) Que sea una institución opcional para quienes deseen servirle de tiempo completo.\nB) Que sea una unión permanente que ningún ser humano tiene el derecho de romper.\nC) Que sea un contrato social renovable cada cierto número de años.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_4",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, examinen el mandato imperativo de Hebreos 13:4: 'Que todos honren el matrimonio'. Según el significado oficial, ¿qué implica directamente esta honra para las personas casadas?\n\nA) Organizar bodas lujosas y aniversarios públicos constantemente.\nB) Valorar profundamente su unión y esforzarse activamente por cuidarla.\nC) Mantener en secreto absoluto los problemas familiares ante los ancianos.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, examinen el mandato imperativo de Hebreos 13:4: 'Que todos honren el matrimonio'. Según el significado oficial, ¿qué implica directamente esta honra para las personas casadas?\n\nA) Organizar bodas lujosas y aniversarios públicos constantemente.\nB) Valorar profundamente su unión y esforzarse activamente por cuidarla.\nC) Mantener en secreto absoluto los problemas familiares ante los ancianos.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_5",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, analicen el crudo pero realista recordatorio de Pablo en 1 Corintios 7:28 respecto a que los que se casan 'tendrán dificultades en la vida'. ¿A qué conclusión práctica nos lleva este versículo?\n\nA) A que el matrimonio es una trampa de la cual es mejor huir antes de que sea tarde.\nB) A que ningún matrimonio es perfecto y las parejas deben trabajar en equipo para superar los obstáculos.\nC) A que las dificultades solo aparecen si la pareja no ora lo suficiente.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, analicen el crudo pero realista recordatorio de Pablo en 1 Corintios 7:28 respecto a que los que se casan 'tendrán dificultades en la vida'. ¿A qué conclusión práctica nos lleva este versículo?\n\nA) A que el matrimonio es una trampa de la cual es mejor huir antes de que sea tarde.\nB) A que ningún matrimonio es perfecto y las parejas deben trabajar en equipo para superar los obstáculos.\nC) A que las dificultades solo aparecen si la pareja no ora lo suficiente.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_6",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "¡TODOS JUEGAN!\nSean los más rápidos en responder. Si un matrimonio está pasando por una racha de severas 'dificultades en la vida' (1 Corintios 7:28), ¿cuál es la única herramienta aprobada por las Escrituras para salir adelante?\n\nA) Esperar pacientemente a que los problemas se resuelvan solos con el tiempo.\nB) El trabajo coordinado en equipo, aplicando los principios bíblicos con humildad.\nC) Que cada miembro de la pareja intente resolver sus diferencias por separado.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nSean los más rápidos en responder. Si un matrimonio está pasando por una racha de severas 'dificultades en la vida' (1 Corintios 7:28), ¿cuál es la única herramienta aprobada por las Escrituras para salir adelante?\n\nA) Esperar pacientemente a que los problemas se resuelvan solos con el tiempo.\nB) El trabajo coordinado en equipo, aplicando los principios bíblicos con humildad.\nC) Que cada miembro de la pareja intente resolver sus diferencias por separado.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_7",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, recuerden las palabras exactas de los profetas: ¿En qué libro de las Escrituras Hebreas se encuentra el enérgico recordatorio divino de proteger y valorar a 'la esposa de tu juventud'?\n\nA) En el libro de Proverbios.\nB) En el libro de Malaquías.\nC) En el libro de Isaías.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, recuerden las palabras exactas de los profetas: ¿En qué libro de las Escrituras Hebreas se encuentra el enérgico recordatorio divino de proteger y valorar a 'la esposa de tu juventud'?\n\nA) En el libro de Proverbios.\nB) En el libro de Malaquías.\nC) En el libro de Isaías.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "lex_matrimonio_8",
     "type": "Políglota",
     "subtype": "Lexicon (Definición)",
-    "consigna": "Para ganar, debatan en pareja: Cuando la Biblia describe el matrimonio como un acuerdo donde 'lo que Dios ha unido, que no lo separe ningún hombre' (Marcos 10:9), ¿qué cualidad fundamental se está exigiendo a los cónyuges?\n\nA) Una devoción ciega basada únicamente en la atracción física inicial.\nB) Un compromiso inquebrantable que ve el matrimonio como una unión permanente.\nC) Una paciencia extrema que ignora por completo cualquier tipo de comunicación.\n\nRespuesta: B",
-    "deckId": "words"
+    "consigna": "Para ganar, debatan en pareja: Cuando la Biblia describe el matrimonio como un acuerdo donde 'lo que Dios ha unido, que no lo separe ningún hombre' (Marcos 10:9), ¿qué cualidad fundamental se está exigiendo a los cónyuges?\n\nA) Una devoción ciega basada únicamente en la atracción física inicial.\nB) Un compromiso inquebrantable que ve el matrimonio como una unión permanente.\nC) Una paciencia extrema que ignora por completo cualquier tipo de comunicación.",
+    "deckId": "words",
+    "respuesta": "B"
   },
   {
     "id": "zel_jw_1",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: El tribunal supremo judío ubicado en Jerusalén que juzgó a Jesús y a los apóstoles.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nN D Í R A E S N\n\nRespuesta: SANEDRÍN",
-    "deckId": "words"
+    "consigna": "Pista: El tribunal supremo judío ubicado en Jerusalén que juzgó a Jesús y a los apóstoles.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nN D Í R A E S N",
+    "deckId": "words",
+    "respuesta": "SANEDRÍN"
   },
   {
     "id": "zel_jw_2",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: La palabra de origen griego que se utiliza para referirse al conjunto de los primeros cinco libros de la Biblia.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nC E T U O P E N A T\n\nRespuesta: PENTATEUCO",
-    "deckId": "words"
+    "consigna": "Pista: La palabra de origen griego que se utiliza para referirse al conjunto de los primeros cinco libros de la Biblia.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nC E T U O P E N A T",
+    "deckId": "words",
+    "respuesta": "PENTATEUCO"
   },
   {
     "id": "zel_jw_3",
     "type": "Políglota",
     "subtype": "Club Cranium (Zelotz)",
-    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: El año especial de liberación, perdón de deudas y restauración que los israelitas celebraban cada 50 años.\n\nDescifren el anagrama:\n\nE L B U I O J\n\nRespuesta: JUBILEO",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: El año especial de liberación, perdón de deudas y restauración que los israelitas celebraban cada 50 años.\n\nDescifren el anagrama:\n\nE L B U I O J",
+    "deckId": "words",
+    "respuesta": "JUBILEO"
   },
   {
     "id": "zel_jw_4",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: Un término bíblico para describir a alguien de las naciones que se convertía a la religión judía, aceptando la Ley.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nT O L É S O P I R\n\nRespuesta: PROSÉLITO",
-    "deckId": "words"
+    "consigna": "Pista: Un término bíblico para describir a alguien de las naciones que se convertía a la religión judía, aceptando la Ley.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nT O L É S O P I R",
+    "deckId": "words",
+    "respuesta": "PROSÉLITO"
   },
   {
     "id": "zel_jw_5",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: El valle a las afueras de Jerusalén que Jesús usó como símbolo de destrucción eterna.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nA N H E E G\n\nRespuesta: GEHENA",
-    "deckId": "words"
+    "consigna": "Pista: El valle a las afueras de Jerusalén que Jesús usó como símbolo de destrucción eterna.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nA N H E E G",
+    "deckId": "words",
+    "respuesta": "GEHENA"
   },
   {
     "id": "zel_jw_6",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: Los objetos sagrados que el sumo sacerdote de Israel usaba para consultar la voluntad de Jehová en asuntos de gran importancia.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nM I M U Y R M I T U\n\nRespuesta: URIM Y TUMIM",
-    "deckId": "words"
+    "consigna": "Pista: Los objetos sagrados que el sumo sacerdote de Israel usaba para consultar la voluntad de Jehová en asuntos de gran importancia.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nM I M U Y R M I T U",
+    "deckId": "words",
+    "respuesta": "URIM Y TUMIM"
   },
   {
     "id": "zel_jw_7",
     "type": "Políglota",
     "subtype": "Club Cranium (Zelotz)",
-    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: El hijo mayor de una familia israelita, a quien le correspondían derechos especiales y una porción doble de la herencia.\n\nDescifren el anagrama:\n\nN I T O M É R P O G I\n\nRespuesta: PRIMOGÉNITO",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: El hijo mayor de una familia israelita, a quien le correspondían derechos especiales y una porción doble de la herencia.\n\nDescifren el anagrama:\n\nN I T O M É R P O G I",
+    "deckId": "words",
+    "respuesta": "PRIMOGÉNITO"
   },
   {
     "id": "zel_jw_8",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: Un tipo de ofrenda que se quemaba por completo en el altar, sin dejar ninguna porción para el que la ofrecía.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nS T O L A U H O O C\n\nRespuesta: HOLOCAUSTO",
-    "deckId": "words"
+    "consigna": "Pista: Un tipo de ofrenda que se quemaba por completo en el altar, sin dejar ninguna porción para el que la ofrecía.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nS T O L A U H O O C",
+    "deckId": "words",
+    "respuesta": "HOLOCAUSTO"
   },
   {
     "id": "zel_jw_9",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: La colina más alta de Atenas donde el apóstol Pablo pronunció su famoso e histórico discurso ante los filósofos griegos.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nO G P Á O A R E\n\nRespuesta: AREÓPAGO",
-    "deckId": "words"
+    "consigna": "Pista: La colina más alta de Atenas donde el apóstol Pablo pronunció su famoso e histórico discurso ante los filósofos griegos.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nO G P Á O A R E",
+    "deckId": "words",
+    "respuesta": "AREÓPAGO"
   },
   {
     "id": "zel_jw_10",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: El nombre del primer mes del calendario sagrado judío, que coincide con la temporada de la Pascua y que luego se llamó Nisán.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nB I B A\n\nRespuesta: ABIB",
-    "deckId": "words"
+    "consigna": "Pista: El nombre del primer mes del calendario sagrado judío, que coincide con la temporada de la Pascua y que luego se llamó Nisán.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nB I B A",
+    "deckId": "words",
+    "respuesta": "ABIB"
   },
   {
     "id": "zel_jw_11",
     "type": "Políglota",
     "subtype": "Club Cranium (Zelotz)",
-    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: La famosa secta o grupo religioso judío del siglo primero que se caracterizaba por su estricto cumplimiento de la Ley y por rechazar la creencia en la resurrección.\n\nDescifren el anagrama:\n\nS O E C U D O A S\n\nRespuesta: SADUCEOS",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: La famosa secta o grupo religioso judío del siglo primero que se caracterizaba por su estricto cumplimiento de la Ley y por rechazar la creencia en la resurrección.\n\nDescifren el anagrama:\n\nS O E C U D O A S",
+    "deckId": "words",
+    "respuesta": "SADUCEOS"
   },
   {
     "id": "zel_jw_12",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: El compartimento o sala más profunda del tabernáculo y del templo, donde se custodiaba el Arca del Pacto.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nM S O S Í I N T A\n\nRespuesta: SANTÍSIMO",
-    "deckId": "words"
+    "consigna": "Pista: El compartimento o sala más profunda del tabernáculo y del templo, donde se custodiaba el Arca del Pacto.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nM S O S Í I N T A",
+    "deckId": "words",
+    "respuesta": "SANTÍSIMO"
   },
   {
     "id": "zel_jw_13",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: Un tipo de prenda áspera hecha de pelo de cabra que se usaba antiguamente como símbolo de profunda tristeza, humillación o arrepentimiento.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nL C I I I O\n\nRespuesta: CILICIO",
-    "deckId": "words"
+    "consigna": "Pista: Un tipo de prenda áspera hecha de pelo de cabra que se usaba antiguamente como símbolo de profunda tristeza, humillación o arrepentimiento.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nL C I I I O",
+    "deckId": "words",
+    "respuesta": "CILICIO"
   },
   {
     "id": "zel_jw_14",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: El nombre de la medida de capacidad para líquidos en el Israel antiguo que equivalía a una doceava parte de un coro (unos 22 litros).\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nT O B\n\nRespuesta: BATO",
-    "deckId": "words"
+    "consigna": "Pista: El nombre de la medida de capacidad para líquidos en el Israel antiguo que equivalía a una doceava parte de un coro (unos 22 litros).\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nT O B",
+    "deckId": "words",
+    "respuesta": "BATO"
   },
   {
     "id": "zel_jw_15",
     "type": "Políglota",
     "subtype": "Club Cranium (Zelotz)",
-    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: Pequeñas cajitas de cuero que los judíos se ataban en la frente y en el brazo, las cuales contenían pasajes escogidos de la Ley.\n\nDescifren el anagrama:\n\nT S I C A L A R I F E\n\nRespuesta: FILACTERIAS",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl equipo que resuelva esto primero gana la tarjeta. Si su equipo grita la respuesta incorrecta, quedan fuera de la ronda.\n\nPista: Pequeñas cajitas de cuero que los judíos se ataban en la frente y en el brazo, las cuales contenían pasajes escogidos de la Ley.\n\nDescifren el anagrama:\n\nT S I C A L A R I F E",
+    "deckId": "words",
+    "respuesta": "FILACTERIAS"
   },
   {
     "id": "zel_jw_16",
     "type": "Políglota",
     "subtype": "Zelotz (Anagrama)",
-    "consigna": "Pista: Nombre que se le daba a los maestros o expertos en la Ley de Moisés encargados de copiar meticulosamente los manuscritos bíblicos.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nS O B A C S I R\n\nRespuesta: ESCRIBAS",
-    "deckId": "words"
+    "consigna": "Pista: Nombre que se le daba a los maestros o expertos en la Ley de Moisés encargados de copiar meticulosamente los manuscritos bíblicos.\n\nPara ganar, trabajen en equipo para descifrar este anagrama antes de que se agote el tiempo:\n\nS O B A C S I R",
+    "deckId": "words",
+    "respuesta": "ESCRIBAS"
   },
   {
     "id": "spe_jw_1",
     "type": "Políglota",
     "subtype": "Spellbound (Deletreo)",
-    "consigna": "Pista: El nombre del imponente río de Babilonia cuyas aguas se secaron para el paso del ejército de Ciro.\n\nPara ganar, el miembro de la pareja que NO está leyendo la tarjeta debe deletrear la palabra AL REVÉS. Tienen 30 segundos. Un solo tropiezo y pierden el turno.\n\nPalabra: É U F R A T E S\n\nRespuesta: S - E - T - A - R - F - U - É",
-    "deckId": "words"
+    "consigna": "Pista: El nombre del imponente río de Babilonia cuyas aguas se secaron para el paso del ejército de Ciro.\n\nPara ganar, el miembro de la pareja que NO está leyendo la tarjeta debe deletrear la palabra AL REVÉS. Tienen 30 segundos. Un solo tropiezo y pierden el turno.\n\nPalabra: É U F R A T E S",
+    "deckId": "words",
+    "respuesta": "S - E - T - A - R - F - U - É"
   },
   {
     "id": "spe_jw_3",
     "type": "Políglota",
     "subtype": "Club Cranium (Spellbound)",
-    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en completar el reto correctamente se lleva la tarjeta. El lector de cada equipo elegirá a un representante.\n\nPista: El nombre de las cuatro letras hebreas que representan el nombre sagrado de Dios.\n\nReto: Deletrear la palabra AL REVÉS a máxima velocidad.\n\nPalabra: T E T R A G R Á M A T O N\n\nRespuesta: N - O - T - A - M - Á - R - G - A - R - T - E - T",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en completar el reto correctamente se lleva la tarjeta. El lector de cada equipo elegirá a un representante.\n\nPista: El nombre de las cuatro letras hebreas que representan el nombre sagrado de Dios.\n\nReto: Deletrear la palabra AL REVÉS a máxima velocidad.\n\nPalabra: T E T R A G R Á M A T O N",
+    "deckId": "words",
+    "respuesta": "N - O - T - A - M - Á - R - G - A - R - T - E - T"
   },
   {
     "id": "spe_jw_4",
     "type": "Políglota",
     "subtype": "Spellbound (Deletreo)",
-    "consigna": "Pista: La antigua y famosa ciudad persa fundada por Ciro el Grande, donde hoy se encuentra su tumba real.\n\nPara ganar, el miembro de la pareja que NO lee la tarjeta debe cerrar los ojos y deletrearla HACIA ADELANTE en menos de 20 segundos.\n\nPalabra: P A S A R G A D A\n\nRespuesta: P - A - S - A - R - G - A - D - A",
-    "deckId": "words"
+    "consigna": "Pista: La antigua y famosa ciudad persa fundada por Ciro el Grande, donde hoy se encuentra su tumba real.\n\nPara ganar, el miembro de la pareja que NO lee la tarjeta debe cerrar los ojos y deletrearla HACIA ADELANTE en menos de 20 segundos.\n\nPalabra: P A S A R G A D A",
+    "deckId": "words",
+    "respuesta": "P - A - S - A - R - G - A - D - A"
   },
   {
     "id": "spe_jw_5",
     "type": "Políglota",
     "subtype": "Spellbound (Deletreo)",
-    "consigna": "Pista: El nombre del sucesor del rey David, famoso por su inmensa sabiduría y por edificar el primer templo de Jerusalén.\n\nPara ganar, jueguen de forma ALTERNADA con tu pareja (letra por letra) deletreando la palabra AL REVÉS. ¡Cuidado con el orden de las vocales!\n\nPalabra: S A L O M Ó N\n\nRespuesta: N - Ó - M - O - L - A - S",
-    "deckId": "words"
+    "consigna": "Pista: El nombre del sucesor del rey David, famoso por su inmensa sabiduría y por edificar el primer templo de Jerusalén.\n\nPara ganar, jueguen de forma ALTERNADA con tu pareja (letra por letra) deletreando la palabra AL REVÉS. ¡Cuidado con el orden de las vocales!\n\nPalabra: S A L O M Ó N",
+    "deckId": "words",
+    "respuesta": "N - Ó - M - O - L - A - S"
   },
   {
     "id": "spe_jw_6",
     "type": "Políglota",
     "subtype": "Spellbound (Deletreo)",
-    "consigna": "Pista: El gran e histórico evento que los israelitas celebraban en el año cincuenta para la liberación y perdón de deudas.\n\nPara ganar, el miembro de la pareja que adivinó la pista debe deletrear la palabra AL REVÉS sin dudar ni un segundo.\n\nPalabra: J U B I L E O\n\nRespuesta: O - E - L - I - B - U - J",
-    "deckId": "words"
+    "consigna": "Pista: El gran e histórico evento que los israelitas celebraban en el año cincuenta para la liberación y perdón de deudas.\n\nPara ganar, el miembro de la pareja que adivinó la pista debe deletrear la palabra AL REVÉS sin dudar ni un segundo.\n\nPalabra: J U B I L E O",
+    "deckId": "words",
+    "respuesta": "O - E - L - I - B - U - J"
   },
   {
     "id": "spe_jw_7",
     "type": "Políglota",
     "subtype": "Club Cranium (Spellbound)",
-    "consigna": "¡TODOS JUEGAN!\nAmbos equipos compiten a la vez. El primer miembro en deletrear la palabra correctamente de principio a fin se lleva el punto para su equipo.\n\nPista: La provincia romana en la que el apóstol Pablo predicó arduamente y fundó congregaciones como la de Tesalónica.\n\nPalabra: M A C E D O N I A\n\nRespuesta: M - A - C - E - D - O - N - I - A",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nAmbos equipos compiten a la vez. El primer miembro en deletrear la palabra correctamente de principio a fin se lleva el punto para su equipo.\n\nPista: La provincia romana en la que el apóstol Pablo predicó arduamente y fundó congregaciones como la de Tesalónica.\n\nPalabra: M A C E D O N I A",
+    "deckId": "words",
+    "respuesta": "M - A - C - E - D - O - N - I - A"
   },
   {
     "id": "spe_jw_8",
     "type": "Políglota",
     "subtype": "Spellbound (Deletreo)",
-    "consigna": "Pista: El pozo o lugar de destrucción simbólica fuera de las murallas de Jerusalén que Jesús usó en sus ilustraciones.\n\nPara ganar, deletrea junto a tu pareja de forma ALTERNADA (una letra cada uno) esta palabra AL REVÉS.\n\nPalabra: G E H E N A\n\nRespuesta: A - N - E - H - E - G",
-    "deckId": "words"
+    "consigna": "Pista: El pozo o lugar de destrucción simbólica fuera de las murallas de Jerusalén que Jesús usó en sus ilustraciones.\n\nPara ganar, deletrea junto a tu pareja de forma ALTERNADA (una letra cada uno) esta palabra AL REVÉS.\n\nPalabra: G E H E N A",
+    "deckId": "words",
+    "respuesta": "A - N - E - H - E - G"
   },
   {
     "id": "bla_jw_1",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: El documento histórico de arcilla que conmemora la caída de Babilonia y la liberación de los judíos.\n\nPara ganar, trabajen en equipo y completen la frase antes de que se agote el tiempo:\n\n_ I L I _ D _ _   _ E   _ I _ O\n\nRespuesta: CILINDRO DE CIRO",
-    "deckId": "words"
+    "consigna": "Pista: El documento histórico de arcilla que conmemora la caída de Babilonia y la liberación de los judíos.\n\nPara ganar, trabajen en equipo y completen la frase antes de que se agote el tiempo:\n\n_ I L I _ D _ _   _ E   _ I _ O",
+    "deckId": "words",
+    "respuesta": "CILINDRO DE CIRO"
   },
   {
     "id": "bla_jw_2",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: El nombre del rey babilonio que vio la milagrosa e infame 'escritura en la pared' durante su fiesta.\n\nPara ganar, adivinen el personaje rellenando los espacios vacíos:\n\n_ E L _ _ _ _ R\n\nRespuesta: BELSASAR",
-    "deckId": "words"
+    "consigna": "Pista: El nombre del rey babilonio que vio la milagrosa e infame 'escritura en la pared' durante su fiesta.\n\nPara ganar, adivinen el personaje rellenando los espacios vacíos:\n\n_ E L _ _ _ _ R",
+    "deckId": "words",
+    "respuesta": "BELSASAR"
   },
   {
     "id": "bla_jw_3",
     "type": "Club Cranium (Blankout)",
-    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en descifrar la palabra completa se lleva la tarjeta. Si fallan en su primer intento, quedan descalificados de la ronda.\n\nPista: Las pequeñas cajitas de cuero que los judíos se ataban en la frente o en el brazo con pasajes de la Ley.\n\n_ I _ _ C _ _ _ I _ S\n\nRespuesta: FILACTERIAS",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nEl primer equipo en descifrar la palabra completa se lleva la tarjeta. Si fallan en su primer intento, quedan descalificados de la ronda.\n\nPista: Las pequeñas cajitas de cuero que los judíos se ataban en la frente o en el brazo con pasajes de la Ley.\n\n_ I _ _ C _ _ _ I _ S",
+    "deckId": "words",
+    "respuesta": "FILACTERIAS"
   },
   {
     "id": "bla_jw_4",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: El tribunal supremo judío que persiguió ferozmente a los primeros cristianos en Jerusalén.\n\nPara ganar, deduzcan la palabra oculta junto a su pareja:\n\nS _ _ E _ _ Í _\n\nRespuesta: SANEDRÍN",
-    "deckId": "words"
+    "consigna": "Pista: El tribunal supremo judío que persiguió ferozmente a los primeros cristianos en Jerusalén.\n\nPara ganar, deduzcan la palabra oculta junto a su pareja:\n\nS _ _ E _ _ Í _",
+    "deckId": "words",
+    "respuesta": "SANEDRÍN"
   },
   {
     "id": "bla_jw_5",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: Cualidad fundamental basada en principios bíblicos que rige el éxito del noviazgo y el matrimonio.\n\nPara ganar, rellenen los espacios en blanco trabajando en perfecta sintonía:\n\n_ M _ R   _ G _ P _\n\nRespuesta: AMOR ÁGAPE",
-    "deckId": "words"
+    "consigna": "Pista: Cualidad fundamental basada en principios bíblicos que rige el éxito del noviazgo y el matrimonio.\n\nPara ganar, rellenen los espacios en blanco trabajando en perfecta sintonía:\n\n_ M _ R   _ G _ P _",
+    "deckId": "words",
+    "respuesta": "AMOR ÁGAPE"
   },
   {
     "id": "bla_jw_6",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: Los objetos sagrados que guardaba el sumo sacerdote de Israel en su pectoral para consultar las decisiones de Jehová.\n\nPara ganar, descifren los dos términos ocultos antes de que acabe el tiempo:\n\n_ R _ M   Y   _ _ M _ M\n\nRespuesta: URIM Y TUMIM",
-    "deckId": "words"
+    "consigna": "Pista: Los objetos sagrados que guardaba el sumo sacerdote de Israel en su pectoral para consultar las decisiones de Jehová.\n\nPara ganar, descifren los dos términos ocultos antes de que acabe el tiempo:\n\n_ R _ M   Y   _ _ M _ M",
+    "deckId": "words",
+    "respuesta": "URIM Y TUMIM"
   },
   {
     "id": "bla_jw_7",
     "type": "Club Cranium (Blankout)",
-    "consigna": "¡TODOS JUEGAN!\nSean los primeros en mirar la pantalla y gritar la respuesta correcta.\n\nPista: El primer mes del calendario sagrado judío, época en la que se celebraba la Pascua antes de ser llamado Nisán.\n\n_ B _ _\n\nRespuesta: ABIB",
-    "deckId": "words"
+    "consigna": "¡TODOS JUEGAN!\nSean los primeros en mirar la pantalla y gritar la respuesta correcta.\n\nPista: El primer mes del calendario sagrado judío, época en la que se celebraba la Pascua antes de ser llamado Nisán.\n\n_ B _ _",
+    "deckId": "words",
+    "respuesta": "ABIB"
   },
   {
     "id": "bla_jw_8",
     "type": "Políglota",
     "subtype": "Blankout (Llenar espacios)",
-    "consigna": "Pista: La colina de Atenas donde el apóstol Pablo debatió magistralmente con los filósofos estoicos y epicúreos.\n\nPara ganar, completen el nombre del lugar histórico en pareja:\n\n_ R _ Ó _ _ G _\n\nRespuesta: AREÓPAGO",
-    "deckId": "words"
+    "consigna": "Pista: La colina de Atenas donde el apóstol Pablo debatió magistralmente con los filósofos estoicos y epicúreos.\n\nPara ganar, completen el nombre del lugar histórico en pareja:\n\n_ R _ Ó _ _ G _",
+    "deckId": "words",
+    "respuesta": "AREÓPAGO"
   }
 ]
