@@ -1,0 +1,13 @@
+{
+  "name": "@gamecards/presentation",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@gamecards/application": "*",
+    "react-router-dom": "^7.15.1"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c1",
+    "gameId": "game_almendra",
+    "title": "Pregunta Incómoda",
+    "description": "¿Cuál es tu gusto culposo más extraño?"
+  },
+  {
+    "id": "c2",
+    "gameId": "game_almendra",
+    "title": "Conexión",
+    "description": "Mira a la persona a tu derecha a los ojos por 30 segundos sin reír."
+  },
+  {
+    "id": "c3",
+    "gameId": "game_cranium",
+    "title": "Mímica Divina",
+    "description": "Actúa la creación del universo sin usar palabras."
+  },
+  {
+    "id": "c4",
+    "gameId": "game_cranium",
+    "title": "Dibujo Ciego",
+    "description": "Dibuja un 'aura' con los ojos cerrados. Tu equipo debe adivinar."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "game_almendra",
+    "userId": "u1",
+    "title": "Preguntas con Almendra",
+    "description": "Un juego para conocerse profundamente, reír y debatir."
+  },
+  {
+    "id": "game_cranium",
+    "userId": "u1",
+    "title": "Cranium Espiritual",
+    "description": "Actúa, dibuja y resuelve acertijos con un toque espiritual."
+  }
+]

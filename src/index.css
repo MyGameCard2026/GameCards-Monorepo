@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-game-navy: #023852;
+  --color-game-teal: #079FA0;
+  --color-game-mint: #9FD8C5;
+  --color-game-yellow: #FAC005;
+  --color-game-orange: #F58B01;
+  --color-game-red: #DC2E2F;
+  --font-arco: "Arco", sans-serif;
+}
