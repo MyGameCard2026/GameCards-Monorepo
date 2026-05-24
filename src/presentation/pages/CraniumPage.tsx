@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { craniumSessionService } from '@gamecards/application';
 import type { CraniumCard, CraniumCategory } from '@gamecards/application';

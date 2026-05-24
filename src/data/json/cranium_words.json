@@ -329,10 +329,11 @@
   },
   {
     "id": "bla_jw_3",
-    "type": "Club Cranium (Blankout)",
+    "type": "Políglota",
     "consigna": "¡TODOS JUEGAN!\nEl primer equipo en descifrar la palabra completa se lleva la tarjeta. Si fallan en su primer intento, quedan descalificados de la ronda.\n\nPista: Las pequeñas cajitas de cuero que los judíos se ataban en la frente o en el brazo con pasajes de la Ley.\n\n_ I _ _ C _ _ _ I _ S",
     "deckId": "words",
-    "respuesta": "FILACTERIAS"
+    "respuesta": "FILACTERIAS",
+    "subtype": "Club Cranium (Blankout)"
   },
   {
     "id": "bla_jw_4",
@@ -360,10 +361,11 @@
   },
   {
     "id": "bla_jw_7",
-    "type": "Club Cranium (Blankout)",
+    "type": "Políglota",
     "consigna": "¡TODOS JUEGAN!\nSean los primeros en mirar la pantalla y gritar la respuesta correcta.\n\nPista: El primer mes del calendario sagrado judío, época en la que se celebraba la Pascua antes de ser llamado Nisán.\n\n_ B _ _",
     "deckId": "words",
-    "respuesta": "ABIB"
+    "respuesta": "ABIB",
+    "subtype": "Club Cranium (Blankout)"
   },
   {
     "id": "bla_jw_8",

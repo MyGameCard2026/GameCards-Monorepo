@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useLocation, useNavigate, Navigate } from 'react-router-dom';
 import Roulette from '../components/Roulette';
 import { IconRenderer } from '../components/IconRenderer';
