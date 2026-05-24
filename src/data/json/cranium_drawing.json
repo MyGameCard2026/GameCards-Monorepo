@@ -1,0 +1,290 @@
+[
+  {
+    "id": "cd1",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: El Arca de Noé.",
+    "respuesta": "El Arca de Noé",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd2",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Una oveja.",
+    "respuesta": "Una oveja",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd3",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El maná cayendo del cielo.",
+    "respuesta": "El maná cayendo del cielo",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd4",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: Las tablas de los 10 mandamientos.",
+    "respuesta": "Las tablas de los 10 mandamientos",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd5",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Una paloma con una rama de olivo.",
+    "respuesta": "Una paloma con una rama de olivo",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd6",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El tabernáculo en el desierto.",
+    "respuesta": "El tabernáculo en el desierto",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd7",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: La inmensa estatua del sueño de Nabucodonosor.",
+    "respuesta": "La estatua del sueño de Nabucodonosor",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd8",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El árbol del conocimiento de lo bueno y lo malo.",
+    "respuesta": "El árbol del conocimiento de lo bueno y lo malo",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd9",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: El Arca del Pacto (intenta incluir los querubines).",
+    "respuesta": "El Arca del Pacto",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd10",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Las pirámides de Egipto.",
+    "respuesta": "Las pirámides de Egipto",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd11",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: Un castor construyendo una represa (el ingeniero del ecosistema).",
+    "respuesta": "Un castor construyendo una represa",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd12",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Una jirafa mostrando su larguísimo cuello.",
+    "respuesta": "Una jirafa",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd13",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: La trompa flexible de un elefante.",
+    "respuesta": "La trompa de un elefante",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd14",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El asombroso olfato de un perro rastreando algo.",
+    "respuesta": "El olfato de un perro",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd15",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Un gato usando sus bigotes como sensores.",
+    "respuesta": "Los bigotes del gato",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd16",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: Un murciélago utilizando su ecolocalización en la oscuridad.",
+    "respuesta": "La ecolocalización del murciélago",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd17",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: Los increíbles tentáculos de un pulpo.",
+    "respuesta": "Los tentáculos de un pulpo",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd18",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Un caballito de mar y su cola enroscada.",
+    "respuesta": "Un caballito de mar",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd19",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El sonar de un delfín explorando el océano.",
+    "respuesta": "El sonar del delfín",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd20",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: La aleta de una ballena jorobada.",
+    "respuesta": "La aleta de la ballena jorobada",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd21",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Una mantarraya filtrando su alimento.",
+    "respuesta": "La mantarraya",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd22",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: Un banco de peces nadando en perfecta sincronía.",
+    "respuesta": "Un banco de peces",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd23",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: El caparazón espiral de una caracola marina.",
+    "respuesta": "Una caracola o concha marina",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd24",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Una nutria marina flotando sobre su espalda.",
+    "respuesta": "El pelaje o la nutria marina",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd25",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El concepto de 'Una cuerda triple no se rompe fácilmente' (Eclesiastés 4:12).",
+    "respuesta": "Una cuerda triple",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd26",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: La esposa de Lot convertida en estatua de sal.",
+    "respuesta": "La esposa de Lot / Estatua de sal",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd27",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: La honda y la piedra de David.",
+    "respuesta": "La honda y la piedra de David",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd28",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: Un hombre sabio construyendo su casa sobre la roca (Mateo 7:24).",
+    "respuesta": "El hombre sabio que edificó sobre la roca",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd29",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: El yelmo de la salvación y la espada del espíritu (La armadura de Dios).",
+    "respuesta": "La armadura de Dios",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd30",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: La milagrosa zarza ardiente que vio Moisés.",
+    "respuesta": "La zarza ardiente",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd31",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: El milagro de los cinco panes y los dos pescados.",
+    "respuesta": "Los cinco panes y los dos pescados",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd32",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: Las trompetas de cuerno de carnero de los israelitas frente a Jericó.",
+    "respuesta": "Las trompetas de Jericó / Cuerno de carnero",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd33",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: Un camello intentando pasar por el ojo de una aguja.",
+    "respuesta": "Un camello pasando por el ojo de una aguja",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd34",
+    "type": "Gato Creativo",
+    "subtype": "Bocetos (Dibujo tradicional)",
+    "consigna": "Dibuja: Jonás en el vientre del gran pez.",
+    "respuesta": "Jonás en el vientre del gran pez",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd35",
+    "type": "Gato Creativo",
+    "subtype": "Escultura (Plastilina)",
+    "consigna": "Moldea con plastilina: El escudo de la fe (Efesios 6:16).",
+    "respuesta": "El escudo de la fe",
+    "deckId": "drawing"
+  },
+  {
+    "id": "cd36",
+    "type": "Gato Creativo",
+    "subtype": "Ojos Cerrados (Dibujo a ciegas)",
+    "consigna": "Dibuja con los ojos cerrados: La impresionante cola de un pavo real (¿Lo diseñó alguien?).",
+    "respuesta": "La cola de un pavo real",
+    "deckId": "drawing"
+  }
+]

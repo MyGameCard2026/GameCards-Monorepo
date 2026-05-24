@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ca35",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Enoc caminando pacientemente mirando al cielo, agarrado de la mano con un Dios invisible ('andando con Dios'). Sin sonidos.",
+    "respuesta": "Enoc",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca36",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: La esposa de Noé persiguiendo a varios animales rebeldes para meterlos en fila dentro del arca. Sin sonidos.",
+    "respuesta": "Noé",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca37",
+    "type": "Mímica (Copia de Carbón)",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Los príncipes del Faraón quedando completamente boquiabiertos e impactados al ver la gran belleza de Sara. Sin sonidos.",
+    "respuesta": "Príncipes",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca38",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: La malvada esposa de Potifar intentando convencer con insistencia y astucia a José para que haga lo malo.",
+    "respuesta": "Esposa",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca39",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: José quitándose desesperadamente la túnica para escapar corriendo de las manos de la esposa de Potifar. Sin sonidos.",
+    "respuesta": "José",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca40",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El panadero principal del Faraón cargando tres canastas de pan sobre su cabeza mientras los pájaros se lo comen. Sin sonidos.",
+    "respuesta": "Panadero",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca41",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Job rascándose las molestas llagas por todo el cuerpo con un pedazo de vasija de barro rota. Sin sonidos.",
+    "respuesta": "Job",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca42",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: Los falsos consoladores de Job acusándolo con un tono de voz severo y frío: '¡Algo malo habrás hecho!'.",
+    "respuesta": "Consoladores",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca43",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Rahab escondiendo apresuradamente a los dos espías israelitas bajo los tallos de lino en la azotea de su casa. Sin sonidos.",
+    "respuesta": "Rahab",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca44",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El gigante Goliat caminando de forma pesada, presumiendo su enorme escudo y burlándose con desprecio de David. Sin sonidos.",
+    "respuesta": "Goliat",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca45",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El apóstol Pedro lanzándose de golpe al mar de Galilea y nadando con todas sus fuerzas hacia la orilla para ver a Jesús. Sin sonidos.",
+    "respuesta": "Pedro",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca46",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Jesús cocinando pescados sobre brasas de carbón en la playa al amanecer para sus discípulos. Sin sonidos.",
+    "respuesta": "Jesús",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca47",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un israelita asustado recogiendo apurado el maná del suelo antes de que el sol de la mañana lo derrita. Sin sonidos.",
+    "respuesta": "Israelita",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca48",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El siervo Eliézer observando con atención y asombro cómo Rebeca le da de beber pacientemente a todos sus camellos. Sin sonidos.",
+    "respuesta": "Eliézer",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca49",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: El rey Acab lloriqueando y haciendo berrinche en su cama porque Nabot no le quiso vender su viña.",
+    "respuesta": "Acab",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca50",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un filisteo saliendo corriendo aterrorizado al ver que su gran campeón Goliat acaba de caer desplomado al suelo. Sin sonidos.",
+    "respuesta": "Filisteo",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca51",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Adán nombrando con curiosidad y atención a los diferentes animales de la creación uno por uno. Sin sonidos.",
+    "respuesta": "Adán",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca52",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Moisés subiendo con esfuerzo el monte Sinaí cargando las dos pesadas tablas de piedra de los 10 mandamientos. Sin sonidos.",
+    "respuesta": "Moisés",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca53",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: Un fariseo muy orgulloso y arrogante orando en voz alta en el templo para que todos lo escuchen y lo admiren.",
+    "respuesta": "Fariseo",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca54",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un publicador asustado huyendo a toda prisa de un perro grande que le ladra en una puerta mientras predica. Sin sonidos.",
+    "respuesta": "Publicador",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca55",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un castor cortando un tronco con los dientes y arrastrándolo para construir su represa (¿Lo diseñó alguien?). Sin sonidos.",
+    "respuesta": "Castor",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca56",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El rey babilonio Belsasar temblando de miedo y con las rodillas chocando al ver la milagrosa escritura en la pared. Sin sonidos.",
+    "respuesta": "Belsasar",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca57",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: La reina Jezabel asomada arrogantemente a la ventana, peinándose y maquillándose los ojos antes de su caída. Sin sonidos.",
+    "respuesta": "Jezabel",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca58",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: Un hermano mayor muy animado y entusiasta dando los anuncios de la congregación desde la plataforma.",
+    "respuesta": "Hermano",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca59",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un israelita en el desierto tratando de atrapar codornices en el aire con las manos desesperadamente. Sin sonidos.",
+    "respuesta": "Israelita",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca60",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Judas Iscariote contando en secreto y con avaricia las 30 monedas de plata que le dieron los fariseos. Sin sonidos.",
+    "respuesta": "Judas",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca61",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Una ardilla terrestre del Ártico tiritando de frío extremo y acurrucándose para empezar a hibernar. Sin sonidos.",
+    "respuesta": "Ardilla",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca62",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Sansón usando toda su fuerza descomunal para empujar y derribar las dos grandes columnas del templo. Sin sonidos.",
+    "respuesta": "Sansón",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca63",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El sumo sacerdote Caifás rasgándose las vestiduras con total indignación y furia durante el juicio de Jesús. Sin sonidos.",
+    "respuesta": "Caifás",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca64",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: El siervo de Elías subiendo corriendo a la cima del Carmelo y tapándose los ojos del sol para buscar una nube en el mar. Sin sonidos.",
+    "respuesta": "Siervo",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca65",
+    "type": "Estelar",
+    "subtype": "Humorista (Imitaciones con voz)",
+    "consigna": "Imita con voz a: Un buey o un camello quejándose cansinamente mientras jala un arado pesado bajo el sol.",
+    "respuesta": "Animal",
+    "deckId": "acting"
+  },
+  {
+    "id": "ca66",
+    "type": "Estelar",
+    "subtype": "Mímica (Copia de Carbón)",
+    "consigna": "Mímica: Un soldado romano afilando meticulosamente su espada y colocándose el pesado escudo para ir a vigilar. Sin sonidos.",
+    "respuesta": "Soldado",
+    "deckId": "acting"
+  }
+]

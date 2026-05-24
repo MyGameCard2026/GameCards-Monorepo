@@ -11,6 +11,12 @@ export const Dashboard: React.FC = () => {
   const [cards, setCards] = useState<Card[]>([]);
   const [loading, setLoading] = useState(true);
 
+  // Security PIN states
+  const [pinModalOpen, setPinModalOpen] = useState(false);
+  const [pinInput, setPinInput] = useState('');
+  const [pinError, setPinError] = useState(false);
+  const [targetGame, setTargetGame] = useState<Game | null>(null);
+
   useEffect(() => {
     if (user) {
       gameService.getUserGames(user.id).then((userGames) => {
@@ -20,9 +26,44 @@ export const Dashboard: React.FC = () => {
     }
   }, [user]);
 
+  const handleSelectGameClick = (game: Game) => {
+    setTargetGame(game);
+    setPinModalOpen(true);
+    setPinInput('');
+    setPinError(false);
+  };
+
+  const handlePinSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (pinInput === '0000') {
+      setPinModalOpen(false);
+      if (targetGame) {
+        handleSelectGame(targetGame);
+      }
+    } else {
+      setPinError(true);
+      setPinInput('');
+    }
+  };
+
+  const getGameStyle = (gameId: string) => {
+    if (gameId === 'game_almendra') {
+      return 'bg-gradient-to-br from-[#F58B01] to-[#DC2E2F] border-4 border-[#FAC005] hover:border-white shadow-xl hover:shadow-[#F58B01]/40';
+    }
+    if (gameId === 'game_cranium') {
+      return 'bg-gradient-to-br from-[#023852] to-[#079FA0] border-4 border-[#9FD8C5] hover:border-white shadow-xl hover:shadow-[#079FA0]/40';
+    }
+    return 'bg-game-teal border-4 border-game-teal hover:border-game-yellow shadow-xl hover:shadow-game-yellow/30';
+  };
+
   const handleSelectGame = (game: Game) => {
     if (game.id === 'game_almendra') {
       navigate('/preparacion');
+      return;
+    }
+    
+    if (game.id === 'game_cranium') {
+      navigate('/cranium');
       return;
     }
     
@@ -100,8 +141,8 @@ export const Dashboard: React.FC = () => {
               {games.map(game => (
                 <div 
                   key={game.id} 
-                  onClick={() => handleSelectGame(game)}
-                  className="group cursor-pointer relative bg-game-teal rounded-[2.5rem] p-8 border-4 border-game-teal hover:border-game-yellow transition-all hover:-translate-y-3 shadow-xl hover:shadow-game-yellow/30 flex flex-col items-center text-center overflow-hidden"
+                  onClick={() => handleSelectGameClick(game)}
+                  className={`group cursor-pointer relative rounded-[2.5rem] p-8 transition-all hover:-translate-y-3 flex flex-col items-center text-center overflow-hidden ${getGameStyle(game.id)}`}
                 >
                   <div className="absolute inset-0 bg-gradient-to-b from-transparent to-game-navy/50 pointer-events-none"></div>
                   <div className="absolute -top-6 bg-game-yellow w-14 h-14 rounded-full flex items-center justify-center shadow-lg border-4 border-white text-white z-10">
@@ -157,6 +198,43 @@ export const Dashboard: React.FC = () => {
               </div>
             )}
           </>
+        )}
+
+        {/* Modal de PIN */}
+        {pinModalOpen && (
+          <div className="fixed inset-0 bg-black/80 z-[100] flex items-center justify-center p-4 backdrop-blur-sm">
+            <div className="bg-white rounded-3xl p-8 w-full max-w-sm shadow-2xl relative">
+              <button 
+                onClick={() => setPinModalOpen(false)}
+                className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 font-sans text-xl"
+              >
+                ✕
+              </button>
+              <div className="flex justify-center mb-4">
+                <span className="text-5xl">🔒</span>
+              </div>
+              <h2 className="text-2xl text-game-navy text-center mb-2 font-bold tracking-wide">Acceso Protegido</h2>
+              <p className="text-gray-500 text-center mb-6 font-sans text-sm">Ingresa el PIN de seguridad para jugar</p>
+              
+              <form onSubmit={handlePinSubmit} className="flex flex-col gap-4">
+                <input 
+                  type="password" 
+                  value={pinInput}
+                  onChange={(e) => setPinInput(e.target.value)}
+                  className="w-full text-center text-4xl tracking-[0.5em] font-bold p-4 bg-gray-100 rounded-xl outline-none focus:ring-2 focus:ring-game-teal font-sans"
+                  maxLength={4}
+                  autoFocus
+                />
+                {pinError && <p className="text-red-500 text-center font-sans text-sm font-bold animate-pulse">PIN Incorrecto</p>}
+                <button 
+                  type="submit"
+                  className="w-full bg-game-navy text-white py-4 rounded-xl font-bold text-lg hover:bg-game-teal transition-colors tracking-widest mt-2"
+                >
+                  DESBLOQUEAR
+                </button>
+              </form>
+            </div>
+          </div>
         )}
       </main>
     </div>
